@@ -1,0 +1,31 @@
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+	
+h3 {
+	color: #CF0A0A;
+	
+}
+
+body{
+	background: black;
+}
+
+
+#paraone {
+	background: white;
+}
+#paratwo {
+	color: yellow;
+}
+#parathree {
+	background: white;
+}
+#parafour {
+	color: maroon;
+}
+
+.commonpara {
+	color: black;
+}
